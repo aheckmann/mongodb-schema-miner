@@ -3,7 +3,7 @@
 
 Generate schemata from MongoDB collections
 
-[[build status]]
+[![Build Status](https://travis-ci.org/aheckmann/mongodb-schema-miner.png)](https://travis-ci.org/aheckmann/mongodb-schema-miner)
 
 ##Use
 
