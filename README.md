@@ -1,5 +1,4 @@
 #mongodb-schema-miner
-======================
 
 Generate schemata from MongoDB collections
 
